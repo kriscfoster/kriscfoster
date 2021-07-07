@@ -1,16 +1,17 @@
-### Hi there 👋
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCWkzkhQ3syxBjjAYwqCbzYg?style=social)
 
-<!--
-**kriscfoster/kriscfoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my spare time, I enjoy creating technical videos over at my [YouTube channel](https://www.youtube.com/c/KrisFoster1).
 
-Here are some ideas to get you started:
+## 🔭 I’ve worked with ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Technologies  | Backend          | Frontend |
+| :---:         | :---:            |  :---:  
+| AWS           | NodeJS (Express) | React
+| Heroku        | TypeScript       | Thymeleaf
+| Kubernetes    | Kotlin (Spring)  | D3.js
+| Docker        | Java
+| Spinnaker
+| Terraform
+| PostgreSQL
+| MongoDB
+| Kafka

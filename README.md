@@ -17,3 +17,4 @@ In my spare time, I enjoy creating technical videos over at my [YouTube channel]
 | PostgreSQL
 | MongoDB
 | Kafka
+| Bazel
